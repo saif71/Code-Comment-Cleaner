@@ -1,0 +1,44 @@
+.top {
+    background-color: #3825c3;
+    height: 25px;
+    width: 100%;
+}
+body{
+  background: #edeaea;
+  overflow-x: hidden;
+
+}
+.ml-auto {
+      left: auto !important;
+      right: 0px;
+    }
+.btn {
+        border-radius: 50px !important;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+.card-1 {
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+      transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    }
+.code-box {
+  background: #fff;
+}
+.btn-box {
+  margin-top: 1px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 0px 0px 10px 10px;
+}
+.title-box {
+  margin-top: 20px;
+  margin-bottom:1px;
+  padding: 20px;
+  background: #3a3e92;
+  color:#ffffff;
+  border-radius: 10px 10px 0px 0px;
+}
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
